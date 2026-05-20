@@ -28,7 +28,7 @@ SalatNow est une application web moderne et élégante permettant de consulter l
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/SalatNow.git
+   git clone https://github.com/MajdiPatron/SalatNow.git
    ```
 2. Ouvrez le fichier `index.html` dans votre navigateur préféré.
 
